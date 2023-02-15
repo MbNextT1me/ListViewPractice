@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomAdapterDemo</string>
+    <string name="sort_title">Сортировать массив:</string>
+    <string name="sortByName">По имени</string>
+    <string name="sortByPhone">По номеру телефона</string>
+    <string name="sortBySex">По полу</string>
+</resources>
